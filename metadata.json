@@ -1,0 +1,6 @@
+{
+  "name": "Cool Hunter Trends",
+  "description": "Identificador inteligente de tendências de notícias e criador de pautas editoriais de alto impacto utilizando IA e Google Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
